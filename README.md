@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🎁 Resume: https://koike.me
+- 🎁 Portfolio: https://koike.me
 
 <!--
 **koike/koike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
